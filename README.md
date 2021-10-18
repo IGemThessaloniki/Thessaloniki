@@ -9,12 +9,16 @@ The Nupack manual: https://2021.igem.org/wiki/images/b/bc/T--Thessaloniki--Softw
 The ViennaRNA manual: https://2021.igem.org/wiki/images/3/37/T--Thessaloniki--Software_ViennaRNA_Manual.pdf
 
 
+
+
 Scratch:
 An educational SynBio Game, developed by iGEM Thessaloniki and Patras in Scratch.
 
-The Game Manual:  λινκ
+The Game Manual:  link
 
 Play the Game: https://2021.igem.org/Team:Thessaloniki/Education
+
+
 
 
 Device:
