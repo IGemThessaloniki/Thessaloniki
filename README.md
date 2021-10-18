@@ -1,10 +1,21 @@
 # Thessaloniki
-A python Toehold Switch analysis tool utilizeing the NUPACK and ViennaRna packages,compatible with both Linux and Windows.
+Package:
+A python Toehold Switch analysis tool utilizing the NUPACK and ViennaRNA packages,compatible with both Linux and Windows.
 
 For the former choose Nupack.ipynb ,for the latter ViennaRNA.py.
 
-The Nupack manual:
-https://2021.igem.org/wiki/images/b/bc/T--Thessaloniki--Software_Nupack_Manual.pdf
+The Nupack manual: https://2021.igem.org/wiki/images/b/bc/T--Thessaloniki--Software_Nupack_Manual.pdf
 
-The ViennaRNA manual:
-https://2021.igem.org/wiki/images/3/37/T--Thessaloniki--Software_ViennaRNA_Manual.pdf
+The ViennaRNA manual: https://2021.igem.org/wiki/images/3/37/T--Thessaloniki--Software_ViennaRNA_Manual.pdf
+
+
+Scratch:
+An educational SynBio Game, developed by iGEM Thessaloniki and Patras in Scratch.
+
+The Game Manual:  λινκ
+
+Play the Game: https://2021.igem.org/Team:Thessaloniki/Education
+
+
+Device:
+The electrical and 3D mechanical designs of our fluorometer device. 
