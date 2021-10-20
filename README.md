@@ -14,7 +14,7 @@ The ViennaRNA manual: https://2021.igem.org/wiki/images/3/37/T--Thessaloniki--So
 **Scratch:**
 An educational SynBio Game, developed by iGEM Thessaloniki and Patras in Scratch.
 
-The Game Manual: link
+The Game Manual: https://2021.igem.org/wiki/images/e/e9/T--Thessaloniki--Manual_on_Scratch_A_SynBio_Game.pdf
 
 Play the Game: https://2021.igem.org/Team:Thessaloniki/Education
 
